@@ -1,0 +1,10 @@
+C:\Users\levi9\source\repos\messagebox hydra\bin\Debug\messagebox hydra.exe
+C:\Users\levi9\source\repos\messagebox hydra\bin\Debug\messagebox hydra.pdb
+C:\Users\levi9\source\repos\messagebox hydra\obj\Debug\messagebox hydra.csprojAssemblyReference.cache
+C:\Users\levi9\source\repos\messagebox hydra\obj\Debug\messagebox_hydra.Properties.Resources.resources
+C:\Users\levi9\source\repos\messagebox hydra\obj\Debug\messagebox hydra.csproj.GenerateResource.cache
+C:\Users\levi9\source\repos\messagebox hydra\obj\Debug\messagebox hydra.csproj.CoreCompileInputs.cache
+C:\Users\levi9\source\repos\messagebox hydra\obj\Debug\messagebox hydra.exe
+C:\Users\levi9\source\repos\messagebox hydra\obj\Debug\messagebox hydra.pdb
+C:\Users\levi9\source\repos\messagebox hydra\obj\Debug\messagebox_hydra.main.resources
+C:\Users\levi9\source\repos\messagebox hydra\obj\Debug\messagebox_hydra.popup.resources
